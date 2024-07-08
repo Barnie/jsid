@@ -1,0 +1,23 @@
+{
+  "name": "jsid",
+  "version": "1.0.0",
+  "description": "You can create a TSID-like key using JavaScript. This key is generated to fit JavaScript's integer range.",
+  "main": "jsid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barnie/jsid.git"
+  },
+  "keywords": [
+    "TSID",
+    "JSID"
+  ],
+  "author": "barnie",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Barnie/jsid/issues"
+  },
+  "homepage": "https://github.com/Barnie/jsid#readme"
+}

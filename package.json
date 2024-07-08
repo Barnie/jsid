@@ -1,5 +1,5 @@
 {
-  "name": "jsid",
+  "name": "@barnie/jsid",
   "version": "1.0.0",
   "description": "You can create a TSID-like key using JavaScript. This key is generated to fit JavaScript's integer range.",
   "main": "jsid.js",

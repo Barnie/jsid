@@ -15,7 +15,7 @@
 
 ### Example
 ```js
-const jsid = require('jsid')(5);        // node: 5
+const jsid = require('@barnie/jsid')(5);        // node: 5
 jsid.get();
 // result: 1761692919744673
 

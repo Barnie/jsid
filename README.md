@@ -15,10 +15,12 @@
 
 ### Example
 ```js
-const jsid = require('@barnie/jsid')(5);        // node: 5
-jsid.get();
+const Jsid = require('@barnie/jsid');
+const jsid = new Jsid(5);        // node: 5
+
+jsid.getInt();
 // result: 1761692919744673
 
-jsid.get().toString(2).padStart(52,'0');
+jsid.getBin();
 // result: '0110010000100100000000011100101101011011010010100010'
 ```
